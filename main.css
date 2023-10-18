@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&display=swap');
+
+html {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-family: 'Lora', serif;
+}
+
+h1 {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+
+canvas {
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+}
+
+div {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
